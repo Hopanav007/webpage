@@ -1,0 +1,99 @@
+div
+{
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://look.com.ua/pic/201209/1920x1080/https://img5.goodfon.ru/wallpaper/nbig/1/d6/4k-ultra-hd-background-starry-sky-milky-way-stars-space-astr.jpglook.com.ua-21869.jpg");
+    background-color: #cccccc;
+    }
+#header
+{
+    position: fixed;
+    height:40px;
+    width: 98%;
+    background-color: #441266;
+    margin-bottom: 10px
+    }
+.div1 {
+    display: block;
+}
+img {
+    border:  solid;
+    position: relative;
+    left: 600px;
+    max-width: 200px;
+}
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#contact
+{
+    margin-left:45%;
+    padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    }
+    a:hover {
+        font-weight: bold;
+    }
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #660559;
+    }
+    
+h3
+{
+    text-decoration: underline;
+    }
+
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#heading
+{
+    font-weight:bold;
+    }
